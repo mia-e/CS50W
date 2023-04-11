@@ -1,0 +1,15 @@
+textarea {
+    min-height: 400px;
+}
+
+.read {
+    background-color: gray;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: 0.25rem;
+}
+
+div {
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: 0.25rem;
+
+}
